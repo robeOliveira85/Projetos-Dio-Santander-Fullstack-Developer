@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.3"
+  },
+  "name": "introducao-ts",
+  "description": "**O que é Typescript?** <br>\r Superset do JavaScript\r - Linguagem construída por cima do JS;\r - Adiciona features à linguagem original; e \r - Compila para JS.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robeOliveira85/introducao-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robeOliveira85/introducao-ts/issues"
+  },
+  "homepage": "https://github.com/robeOliveira85/introducao-ts#readme"
+}
